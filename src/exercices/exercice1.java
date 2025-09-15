@@ -2,7 +2,7 @@ package exercices;
 
 import java.util.Iterator;
 
-public class exercices {
+public class exercice1 {
 
 	public static void main(String[] args) {
 		int[] tableau = {2, 5, -1, 7, 4, 3};
